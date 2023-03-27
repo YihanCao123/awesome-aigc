@@ -1,6 +1,7 @@
 # Awesome AI-Generated Content (AIGC) and Generative AI (GAI)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 A curated list of AI-Generated Content (AIGC) and Generative AI (GAI) related papers and tools.
 
 If you find this repo helpful, we would really appreciate it if you could cite our survey.
@@ -15,7 +16,7 @@ If you find this repo helpful, we would really appreciate it if you could cite o
 
 ### Contents
 * [1. Related Surveys and Courses](#1-survey-papers)
-* [2. Generative AI Papers](#2-attack-papers) (classified according to attack goal)
+* [2. Generative AI Papers](#2-attack-papers)
 	* [2.1 AIGC in NLP](#21-targeted-attack)
 	* [2.2 AIGC in Vision](#22-untargeted-attack) 
 	* [2.3 AIGC in Vision Language](#23-attacks-on-combinatorial-problems)
