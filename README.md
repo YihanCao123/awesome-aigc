@@ -42,4 +42,8 @@ If you find this repo helpful, we would really appreciate it if you could cite o
 ## 3. Generative AI Tools
 
 
-## 4. Generative AI Discussions
+## 4. Generative AI New Research Directions
+### 4.1 Combing with Robots
+### 4.2 Embodiment
+### 4.3 Understudied modalities
+### 4.4 Motor Reasoning
